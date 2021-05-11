@@ -1,0 +1,43 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Tue May 11 03:18:14 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00009a
+                   .cinit    romdata   0x00004d    program   0x000004
+ .config_2007_SPI_SLAVE.O       code   0x002007    program   0x000002
+ .config_2008_SPI_SLAVE.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00004e      
+                            0x002007    0x002008      
+            81 out of 8455 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    CICLO   0x000027    program     static D:\PICS\ComunicacionSPI\spi_slave.asm
+             _.org_0_002A   0x00002a    program     static D:\PICS\ComunicacionSPI\spi_slave.asm
+             _.org_0_0033   0x000033    program     static D:\PICS\ComunicacionSPI\spi_slave.asm
+             _.org_0_0038   0x000038    program     static D:\PICS\ComunicacionSPI\spi_slave.asm
+             _.org_0_003D   0x00003d    program     static D:\PICS\ComunicacionSPI\spi_slave.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    CICLO   0x000027    program     static D:\PICS\ComunicacionSPI\spi_slave.asm
+             _.org_0_002A   0x00002a    program     static D:\PICS\ComunicacionSPI\spi_slave.asm
+             _.org_0_0033   0x000033    program     static D:\PICS\ComunicacionSPI\spi_slave.asm
+             _.org_0_0038   0x000038    program     static D:\PICS\ComunicacionSPI\spi_slave.asm
+             _.org_0_003D   0x00003d    program     static D:\PICS\ComunicacionSPI\spi_slave.asm
+
+
